@@ -1,0 +1,362 @@
+但是只是根据止盈止损来退出
+方向是short的交易情况:
+the time of open: 09:32:51,the price: 3051.0
+the time of close:09:38:01,the price: 3062.0
+the time of open: 09:59:36,the price: 3061.0
+the time of close:14:44:52,the price: 3072.0
+-22.0
+方向是long的交易情况：:
+the time of open: 09:35:04,the price: 3052.0
+the time of close:09:52:02,the price: 3078.0
+the time of open: 09:54:30,the price: 3064.0
+the time of close:10:33:04,the price: 3053.0
+the time of open: 11:04:09,the price: 3052.0
+the time of close:11:11:20,the price: 3041.0
+the time of open: 11:18:09,the price: 3048.0
+the time of close:14:45:02,the price: 3074.0
+the time of open: 14:59:39,the price: 3070.0
+30.0
+1退出，盈利通过止盈数来做
+方向是short的交易情况:
+the time of open: 09:32:51,the price: 3051.0
+the time of close:09:37:32,the price: 3058.0
+the time of open: 09:59:36,the price: 3061.0
+the time of close:10:30:06,the price: 3066.0
+the time of open: 10:30:45,the price: 3061.0
+the time of close:11:18:11,the price: 3052.0
+the time of open: 11:19:37,the price: 3047.0
+the time of close:11:27:14,the price: 3050.0
+the time of open: 13:30:03,the price: 3045.0
+the time of close:14:23:25,the price: 3056.0
+-17.0
+方向是long的交易情况：:
+the time of open: 09:35:04,the price: 3052.0
+the time of close:09:52:02,the price: 3078.0
+the time of open: 09:54:30,the price: 3064.0
+the time of close:10:06:42,the price: 3057.0
+the time of open: 10:08:56,the price: 3062.0
+the time of close:10:30:53,the price: 3059.0
+the time of open: 10:31:40,the price: 3062.0
+the time of close:10:32:43,the price: 3058.0
+the time of open: 11:04:09,the price: 3052.0
+the time of close:11:11:20,the price: 3041.0
+the time of open: 11:18:09,the price: 3048.0
+the time of close:11:20:15,the price: 3043.0
+the time of open: 11:27:11,the price: 3047.0
+the time of close:14:45:02,the price: 3073.0
+the time of open: 14:59:39,the price: 3070.0
+22.0
+根据止盈止损的值，然后加上Max draw dowm“
+方向是short的交易情况:
+the time of open: 09:32:51,the price: 3051.0
+this is the max draw down 20.0
+the time of close:09:37:46,the price: 3059.0
+the time of open: 09:59:36,the price: 3061.0
+this is the max draw down 40.0
+the time of close:10:13:37,the price: 3067.0
+the time of open: 10:30:45,the price: 3061.0
+this is the max draw down 170.0
+the time of close:11:03:16,the price: 3054.0
+the time of open: 11:17:58,the price: 3047.0
+this is the max draw down 70.0
+the time of close:11:27:14,the price: 3050.0
+the time of open: 13:30:03,the price: 3045.0
+this is the max draw down 60.0
+the time of close:14:03:09,the price: 3049.0
+the time of open: 14:11:08,the price: 3045.0
+this is the max draw down 30.0
+the time of close:14:19:06,the price: 3052.0
+-21.0
+方向是long的交易情况：:
+the time of open: 09:35:04,the price: 3052.0
+the time of close:09:52:02,the price: 3078.0
+the time of open: 09:54:30,the price: 3064.0
+this is the max draw down 50.0
+the time of close:10:30:53,the price: 3059.0
+the time of open: 10:31:40,the price: 3062.0
+this is the max draw down 0
+the time of close:10:33:05,the price: 3052.0
+the time of open: 11:04:09,the price: 3052.0
+this is the max draw down 0
+the time of close:11:11:19,the price: 3042.0
+the time of open: 11:18:09,the price: 3048.0
+this is the max draw down 60.0
+the time of close:11:20:15,the price: 3043.0
+the time of open: 11:27:11,the price: 3047.0
+this is the max draw down 40.0
+the time of close:13:55:17,the price: 3041.0
+the time of open: 14:09:45,the price: 3046.0
+this is the max draw down 150.0
+the time of close:14:23:45,the price: 3051.0
+the time of open: 14:33:26,the price: 3055.0
+-5.0
+根据1退出 根据止盈数值来止盈，然后加上Max draw dowm“
+方向是short的交易情况:
+the time of open: 09:32:51,the price: 3051.0
+the time of close:09:37:32,the price: 3058.0
+the time of open: 09:59:36,the price: 3061.0
+this is the max draw down 40.0
+the time of close:10:13:37,the price: 3067.0
+the time of open: 10:30:45,the price: 3061.0
+this is the max draw down 170.0
+the time of close:11:03:16,the price: 3054.0
+the time of open: 11:17:58,the price: 3047.0
+the time of close:11:18:11,the price: 3052.0
+the time of open: 11:19:37,the price: 3047.0
+this is the max draw down 70.0
+the time of close:11:27:14,the price: 3050.0
+the time of open: 13:30:03,the price: 3045.0
+this is the max draw down 60.0
+the time of close:14:03:09,the price: 3049.0
+the time of open: 14:11:08,the price: 3045.0
+this is the max draw down 30.0
+the time of close:14:19:06,the price: 3052.0
+-25.0
+方向是long的交易情况：:
+the time of open: 09:35:04,the price: 3052.0
+the time of close:09:52:02,the price: 3078.0
+the time of open: 09:54:30,the price: 3064.0
+the time of close:10:06:42,the price: 3057.0
+the time of open: 10:08:56,the price: 3062.0
+this is the max draw down 70.0
+the time of close:10:30:53,the price: 3059.0
+the time of open: 10:31:40,the price: 3062.0
+the time of close:10:32:43,the price: 3058.0
+the time of open: 11:04:09,the price: 3052.0
+this is the max draw down 0
+the time of close:11:11:19,the price: 3042.0
+the time of open: 11:18:09,the price: 3048.0
+this is the max draw down 60.0
+the time of close:11:20:15,the price: 3043.0
+the time of open: 11:27:11,the price: 3047.0
+this is the max draw down 40.0
+the time of close:13:55:17,the price: 3041.0
+the time of open: 14:09:45,the price: 3046.0
+this is the max draw down 150.0
+the time of close:14:23:45,the price: 3051.0
+the time of open: 14:33:26,the price: 3055.0
+-4.0
+根据1退出 3退出，然后加rsi，周期是120，14
+方向是short的交易情况:
+the time of open: 09:32:51,the price: 3051.0
+the time of close:09:37:32,the price: 3058.0
+the time of open: 09:59:36,the price: 3061.0
+the time of close:10:30:06,the price: 3066.0
+the time of open: 10:30:45,the price: 3061.0
+the time of close:11:18:11,the price: 3052.0
+the time of open: 11:19:37,the price: 3047.0
+the time of close:11:27:14,the price: 3050.0
+the time of open: 13:30:03,the price: 3045.0
+the time of close:14:23:25,the price: 3056.0
+-17.0
+方向是long的交易情况：:
+the time of open: 09:35:04,the price: 3052.0
+the time of close:09:52:02,the price: 3078.0
+the time of open: 09:54:30,the price: 3064.0
+the time of close:10:06:42,the price: 3057.0
+the time of open: 10:08:56,the price: 3062.0
+the time of close:10:30:53,the price: 3059.0
+the time of open: 10:31:40,the price: 3062.0
+the time of close:10:32:43,the price: 3058.0
+the time of open: 11:04:09,the price: 3052.0
+the time of close:11:11:20,the price: 3041.0
+the time of open: 11:18:09,the price: 3048.0
+the time of close:11:20:15,the price: 3043.0
+the time of open: 11:27:11,the price: 3047.0
+the time of close:14:45:02,the price: 3073.0
+the time of open: 14:59:39,the price: 3070.0
+22.0
+根据1退出 3退出，然后加rsi，周期是300，14
+方向是short的交易情况:
+the time of open: 09:32:51,the price: 3051.0
+the time of close:09:37:32,the price: 3058.0
+the time of open: 09:59:36,the price: 3061.0
+the time of close:10:30:06,the price: 3066.0
+the time of open: 10:30:45,the price: 3061.0
+the time of close:11:18:11,the price: 3052.0
+the time of open: 11:19:37,the price: 3047.0
+the time of close:11:27:14,the price: 3050.0
+the time of open: 13:30:03,the price: 3045.0
+the time of close:14:23:25,the price: 3056.0
+-17.0
+方向是long的交易情况：:
+the time of open: 09:35:04,the price: 3052.0
+the time of close:09:52:02,the price: 3078.0
+the time of open: 09:54:30,the price: 3064.0
+the time of close:10:06:42,the price: 3057.0
+the time of open: 10:08:56,the price: 3062.0
+the time of close:10:30:53,the price: 3059.0
+the time of open: 10:31:40,the price: 3062.0
+the time of close:10:32:43,the price: 3058.0
+the time of open: 11:04:09,the price: 3052.0
+the time of close:11:11:20,the price: 3041.0
+the time of open: 11:18:09,the price: 3048.0
+the time of close:11:20:15,the price: 3043.0
+the time of open: 11:27:11,the price: 3047.0
+the time of close:14:45:02,the price: 3073.0
+the time of open: 14:59:39,the price: 3070.0
+22.0
+根据1退出 3退出，然后加rsi，周期是120，14,添加Max draw down
+方向是short的交易情况:
+the time of open: 09:32:51,the price: 3051.0
+this is the max draw down 0
+the time of close:09:32:52,the price: 3052.0
+the time of open: 09:33:02,the price: 3050.0
+this is the max draw down 0
+the time of close:09:33:03,the price: 3051.0
+the time of open: 09:33:45,the price: 3051.0
+this is the max draw down 10.0
+the time of close:09:33:48,the price: 3052.0
+the time of open: 09:34:24,the price: 3051.0
+this is the max draw down 10.0
+the time of close:09:34:26,the price: 3051.0
+the time of open: 09:59:36,the price: 3061.0
+this is the max draw down 0
+the time of close:09:59:40,the price: 3062.0
+the time of open: 09:59:54,the price: 3061.0
+this is the max draw down 0
+the time of close:09:59:55,the price: 3062.0
+the time of open: 10:00:02,the price: 3060.0
+this is the max draw down 10.0
+the time of close:10:00:07,the price: 3060.0
+the time of open: 10:00:09,the price: 3059.0
+this is the max draw down 0
+the time of close:10:00:10,the price: 3060.0
+the time of open: 10:00:15,the price: 3060.0
+this is the max draw down 10.0
+the time of close:10:00:18,the price: 3060.0
+the time of open: 10:02:14,the price: 3060.0
+this is the max draw down 10.0
+the time of close:10:02:15,the price: 3060.0
+the time of open: 10:11:13,the price: 3061.0
+this is the max draw down 10.0
+the time of close:10:11:16,the price: 3061.0
+the time of open: 10:30:45,the price: 3061.0
+this is the max draw down 10.0
+the time of close:10:30:46,the price: 3061.0
+the time of open: 10:31:43,the price: 3061.0
+this is the max draw down 0
+the time of close:10:31:44,the price: 3062.0
+the time of open: 10:31:48,the price: 3061.0
+this is the max draw down 0
+the time of close:10:31:50,the price: 3062.0
+the time of open: 10:50:10,the price: 3053.0
+this is the max draw down 10.0
+the time of close:10:50:11,the price: 3053.0
+the time of open: 11:17:58,the price: 3047.0
+this is the max draw down 10.0
+the time of close:11:18:03,the price: 3047.0
+the time of open: 11:19:37,the price: 3047.0
+this is the max draw down 0
+the time of close:11:19:38,the price: 3048.0
+the time of open: 11:20:14,the price: 3047.0
+this is the max draw down 40.0
+the time of close:11:20:16,the price: 3044.0
+the time of open: 11:23:15,the price: 3046.0
+this is the max draw down 10.0
+the time of close:11:23:17,the price: 3046.0
+the time of open: 11:27:09,the price: 3046.0
+this is the max draw down 0
+the time of close:11:27:10,the price: 3047.0
+the time of open: 13:30:03,the price: 3045.0
+this is the max draw down 0
+the time of close:13:30:04,the price: 3047.0
+the time of open: 13:30:10,the price: 3045.0
+this is the max draw down 0
+the time of close:13:30:13,the price: 3046.0
+the time of open: 13:30:23,the price: 3046.0
+this is the max draw down 10.0
+the time of close:13:30:24,the price: 3046.0
+the time of open: 13:33:15,the price: 3045.0
+this is the max draw down 10.0
+the time of close:13:33:19,the price: 3045.0
+the time of open: 14:11:08,the price: 3045.0
+this is the max draw down 0
+the time of close:14:11:09,the price: 3046.0
+the time of open: 14:16:19,the price: 3045.0
+this is the max draw down 20.0
+the time of close:14:16:22,the price: 3044.0
+-10.0
+方向是long的交易情况：:
+the time of open: 09:35:04,the price: 3052.0
+this is the max draw down 10.0
+the time of close:09:35:06,the price: 3052.0
+the time of open: 09:35:14,the price: 3053.0
+this is the max draw down 10.0
+the time of close:09:35:17,the price: 3053.0
+the time of open: 09:36:05,the price: 3053.0
+this is the max draw down 20.0
+the time of close:09:36:08,the price: 3054.0
+the time of open: 09:54:30,the price: 3064.0
+this is the max draw down 0
+the time of close:09:54:31,the price: 3063.0
+the time of open: 09:54:35,the price: 3062.0
+this is the max draw down 20.0
+the time of close:09:54:39,the price: 3063.0
+the time of open: 09:54:51,the price: 3063.0
+this is the max draw down 10.0
+the time of close:09:54:53,the price: 3063.0
+the time of open: 09:59:19,the price: 3063.0
+this is the max draw down 0
+the time of close:09:59:21,the price: 3062.0
+the time of open: 10:01:37,the price: 3063.0
+this is the max draw down 10.0
+the time of close:10:01:39,the price: 3063.0
+the time of open: 10:01:45,the price: 3062.0
+this is the max draw down 0
+the time of close:10:01:47,the price: 3061.0
+the time of open: 10:06:04,the price: 3062.0
+this is the max draw down 0
+the time of close:10:06:06,the price: 3061.0
+the time of open: 10:08:56,the price: 3062.0
+this is the max draw down 20.0
+the time of close:10:08:59,the price: 3063.0
+the time of open: 10:31:40,the price: 3062.0
+this is the max draw down 0
+the time of close:10:31:40,the price: 3060.0
+the time of open: 11:04:09,the price: 3052.0
+this is the max draw down 0
+the time of close:11:04:10,the price: 3051.0
+the time of open: 11:18:09,the price: 3048.0
+this is the max draw down 40.0
+the time of close:11:18:12,the price: 3051.0
+the time of open: 11:27:11,the price: 3047.0
+this is the max draw down 30.0
+the time of close:11:27:15,the price: 3049.0
+the time of open: 11:28:30,the price: 3047.0
+this is the max draw down 0
+the time of close:11:28:33,the price: 3046.0
+the time of open: 13:30:00,the price: 3048.0
+this is the max draw down 0
+the time of close:13:30:02,the price: 3046.0
+the time of open: 13:31:44,the price: 3048.0
+this is the max draw down 0
+the time of close:13:31:44,the price: 3047.0
+the time of open: 13:32:34,the price: 3047.0
+this is the max draw down 0
+the time of close:13:32:35,the price: 3046.0
+the time of open: 13:46:48,the price: 3046.0
+this is the max draw down 0
+the time of close:13:46:48,the price: 3045.0
+the time of open: 14:09:45,the price: 3046.0
+this is the max draw down 0
+the time of close:14:09:46,the price: 3045.0
+the time of open: 14:18:45,the price: 3046.0
+this is the max draw down 10.0
+the time of close:14:18:47,the price: 3046.0
+the time of open: 14:33:26,the price: 3055.0
+this is the max draw down 20.0
+the time of close:14:33:28,the price: 3056.0
+the time of open: 14:36:54,the price: 3055.0
+this is the max draw down 0
+the time of close:14:36:55,the price: 3054.0
+the time of open: 14:36:59,the price: 3055.0
+this is the max draw down 10.0
+the time of close:14:37:01,the price: 3055.0
+the time of open: 14:59:39,the price: 3070.0
+this is the max draw down 10.0
+the time of close:14:59:45,the price: 3070.0
+the time of open: 14:59:53,the price: 3069.0
+this is the max draw down 0
+the time of close:14:59:57,the price: 3068.0
+-7.0
