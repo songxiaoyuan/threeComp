@@ -1,0 +1,109 @@
+完全按照1退出，3退出。150进入
+方向是short的交易情况:
+the time of open: 11:07:43,the price: 12765.0
+the diff volume: 178.0, the interest: 118.0, the spread: 133.707865169
+the time of close:13:33:46,the price: 12765.0
+0.0
+方向是long的交易情况：:
+the time of open: 10:07:41,the price: 12715.0
+the diff volume: 298.0, the interest: 218.0, the spread: 0.0
+the time of close:11:09:39,the price: 12745.0
+the time of open: 13:48:59,the price: 12760.0
+the diff volume: 150.0, the interest: 32.0, the spread: 0.0
+the time of close:13:54:08,the price: 12850.0
+the time of open: 14:44:09,the price: 12905.0
+the diff volume: 166.0, the interest: 164.0, the spread: 0.0
+120.0
+1，3退出，sd／last price <9 不平，150进入
+方向是short的交易情况:
+the time of open: 11:07:43,the price: 12765.0
+the diff volume: 178.0, the interest: 118.0, the spread: 133.707865169
+the time of close:13:33:46,the price: 12765.0
+0.0
+方向是long的交易情况：:
+the time of open: 10:07:41,the price: 12715.0
+the diff volume: 298.0, the interest: 218.0, the spread: 0.0
+the time of close:11:09:39,the price: 12745.0
+the time of open: 13:48:59,the price: 12760.0
+the diff volume: 150.0, the interest: 32.0, the spread: 0.0
+the time of close:13:54:08,the price: 12850.0
+the time of open: 14:44:09,the price: 12905.0
+the diff volume: 166.0, the interest: 164.0, the spread: 0.0
+120.0
+完全按照1退出，3退出。180进入
+方向是short的交易情况:
+the time of open: 11:22:38,the price: 12740.0
+the diff volume: 192.0, the interest: 122.0, the spread: 100.0
+the time of close:13:33:46,the price: 12765.0
+-25.0
+方向是long的交易情况：:
+the time of open: 10:07:41,the price: 12715.0
+the diff volume: 298.0, the interest: 218.0, the spread: 0.0
+the time of close:11:09:39,the price: 12745.0
+30.0
+1，3退出，sd／last price <9 不平，180进入
+方向是short的交易情况:
+the time of open: 11:22:38,the price: 12740.0
+the diff volume: 192.0, the interest: 122.0, the spread: 100.0
+the time of close:13:33:46,the price: 12765.0
+-25.0
+方向是long的交易情况：:
+the time of open: 10:07:41,the price: 12715.0
+the diff volume: 298.0, the interest: 218.0, the spread: 0.0
+the time of close:11:09:39,the price: 12745.0
+30.0
+完全按照1退出，3退出。200进入
+方向是short的交易情况:
+the time of open: 13:30:02,the price: 12745.0
+the diff volume: 398.0, the interest: 114.0, the spread: 166.331658291
+the time of close:13:33:46,the price: 12765.0
+-20.0
+方向是long的交易情况：:
+the time of open: 10:07:41,the price: 12715.0
+the diff volume: 298.0, the interest: 218.0, the spread: 0.0
+the time of close:11:09:39,the price: 12745.0
+30.0
+1，3退出，sd／last price <9 不平，200进入
+方向是short的交易情况:
+the time of open: 13:30:02,the price: 12745.0
+the diff volume: 398.0, the interest: 114.0, the spread: 166.331658291
+the time of close:13:33:46,the price: 12765.0
+-20.0
+方向是long的交易情况：:
+the time of open: 10:07:41,the price: 12715.0
+the diff volume: 298.0, the interest: 218.0, the spread: 0.0
+the time of close:11:09:39,the price: 12745.0
+30.0
+根据1退出 3退出,添加Max draw down
+方向是short的交易情况:
+the time of open: 11:07:43,the price: 12765.0
+the diff volume: 178.0, the interest: 118.0, the spread: 133.707865169
+this is the max draw down 0
+the time of close:11:07:45,the price: 12770.0
+the time of open: 11:09:27,the price: 12760.0
+the diff volume: 170.0, the interest: 14.0, the spread: 100.0
+this is the max draw down 100.0
+the time of close:11:09:33,the price: 12755.0
+the time of open: 11:22:38,the price: 12740.0
+the diff volume: 192.0, the interest: 122.0, the spread: 100.0
+this is the max draw down 0
+the time of close:11:22:46,the price: 12745.0
+the time of open: 13:30:02,the price: 12745.0
+the diff volume: 398.0, the interest: 114.0, the spread: 166.331658291
+this is the max draw down 50.0
+the time of close:13:30:04,the price: 12745.0
+-5.0
+方向是long的交易情况：:
+the time of open: 10:07:41,the price: 12715.0
+the diff volume: 298.0, the interest: 218.0, the spread: 0.0
+this is the max draw down 100.0
+the time of close:10:07:46,the price: 12720.0
+the time of open: 13:48:59,the price: 12760.0
+the diff volume: 150.0, the interest: 32.0, the spread: 0.0
+this is the max draw down 50.0
+the time of close:13:49:03,the price: 12760.0
+the time of open: 14:44:09,the price: 12905.0
+the diff volume: 166.0, the interest: 164.0, the spread: 0.0
+this is the max draw down 0
+the time of close:14:44:14,the price: 12900.0
+0.0
