@@ -1,0 +1,44 @@
+1，3退出，sd／last price <9 不平，diff_period =1 900进入
+方向是short的交易情况:
+the time of open: 10:00:09,the price: 3059.0
+the diff volume: 1006.0, the interest: 80.0, the spread: 163.021868787
+the time of close:10:12:18,the price: 3065.0
+the time of open: 13:30:03,the price: 3045.0
+the diff volume: 1688.0, the interest: 224.0, the spread: 118.601895735
+the time of close:14:03:12,the price: 3052.0
+-13.0
+方向是long的交易情况：:
+the time of open: 09:54:35,the price: 3062.0
+the diff volume: 914.0, the interest: 232.0, the spread: 103.06345733
+the time of close:10:06:42,the price: 3057.0
+the time of open: 10:31:40,the price: 3062.0
+the diff volume: 1014.0, the interest: 242.0, the spread: 151.084812623
+the time of close:10:32:43,the price: 3058.0
+the time of open: 11:18:09,the price: 3048.0
+the diff volume: 1178.0, the interest: 70.0, the spread: 100.0
+the time of close:11:20:15,the price: 3043.0
+the time of open: 11:27:11,the price: 3047.0
+the diff volume: 1078.0, the interest: 364.0, the spread: 100.185528757
+the time of close:13:41:16,the price: 3043.0
+the time of open: 14:18:45,the price: 3046.0
+the diff volume: 940.0, the interest: 670.0, the spread: 100.0
+the time of close:14:24:27,the price: 3057.0
+the time of open: 14:59:54,the price: 3069.0
+the diff volume: 1378.0, the interest: 290.0, the spread: 119.013062409
+-7.0
+1，3退出，sd／last price <9 不平，diff_period =6 300进入 spread =90 volume_open_edge=300
+方向是short的交易情况:
+the time of open: 11:04:10,the price: 3051.0
+the diff volume: 373.523809524, the interest: 1546.0, the spread: 96.8619246862
+the time of close:11:18:11,the price: 3052.0
+the time of open: 14:16:20,the price: 3044.0
+the diff volume: 618.095238095, the interest: 1436.0, the spread: 95.4350927247
+the time of close:14:19:06,the price: 3051.0
+-8.0
+方向是long的交易情况：:
+the time of open: 11:27:11,the price: 3047.0
+the diff volume: 702.380952381, the interest: 946.0, the spread: 98.3341266064
+the time of close:13:41:16,the price: 3043.0
+the time of open: 14:37:02,the price: 3056.0
+the diff volume: 343.333333333, the interest: 908.0, the spread: 95.8997722096
+-4.0

@@ -1,0 +1,8 @@
+1，3退出，sd／last price <9 不平，diff_period =1 900进入
+方向是short的交易情况:
+the time of open: 09:45:42,the price: 3436.0
+the diff volume: 998.0, the interest: 492.0, the spread: 101.002004008
+the time of close:09:45:47,the price: 3456.0
+the time of open: 09:55:30,the price: 3435.0
+the diff volume: 1026.0, the interest: 628.0, the spread: 155.750487329
+the time of close:09:55:47,the price: 3456.0
