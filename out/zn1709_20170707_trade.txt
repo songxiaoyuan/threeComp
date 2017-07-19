@@ -1,0 +1,43 @@
+1，3退出，sd／last price <9 不平，diff_period =1,100进入
+方向是short的交易情况:
+the time of open: 10:03:28,the price: 22730.0
+the diff volume: 112.0, the interest: 78.0, the spread: 100.0
+the time of close:10:48:40,the price: 22765.0
+the time of open: 13:59:38,the price: 22835.0
+the diff volume: 214.0, the interest: 134.0, the spread: 100.0
+the time of close:14:26:08,the price: 22870.0
+-70.0
+方向是long的交易情况：:
+the time of open: 10:34:12,the price: 22745.0
+the diff volume: 154.0, the interest: 140.0, the spread: 100.0
+the time of close:13:39:52,the price: 22860.0
+the time of open: 13:58:03,the price: 22840.0
+the diff volume: 148.0, the interest: 86.0, the spread: 105.405405405
+the time of close:14:34:02,the price: 22940.0
+the time of open: 14:56:19,the price: 22955.0
+the diff volume: 100.0, the interest: 14.0, the spread: 100.0
+the time of close:14:59:35,the price: 22920.0
+180.0
+完全按照1退出，3退出。 diff_period 6,diff_volume=6,spread=90,volume_edge=40
+方向是short的交易情况:
+the time of open: 10:03:28,the price: 22730.0
+the diff volume: 33.0476190476, the interest: 80.0, the spread: 96.7213114754
+the time of close:10:48:40,the price: 22765.0
+the time of open: 13:59:30,the price: 22840.0
+the diff volume: 33.3333333333, the interest: 34.0, the spread: 98.4848484848
+the time of close:14:26:21,the price: 22875.0
+-70.0
+方向是long的交易情况：:
+the time of open: 09:45:47,the price: 22765.0
+the diff volume: 35.0476190476, the interest: 12.0, the spread: 96.3235294118
+the time of close:09:49:16,the price: 22730.0
+the time of open: 11:01:31,the price: 22750.0
+the diff volume: 42.1904761905, the interest: 82.0, the spread: 167.948717949
+the time of close:13:39:52,the price: 22860.0
+the time of open: 14:00:21,the price: 22850.0
+the diff volume: 56.5714285714, the interest: 20.0, the spread: 126.356589147
+the time of close:14:34:02,the price: 22940.0
+the time of open: 14:56:43,the price: 22960.0
+the diff volume: 69.1428571429, the interest: 116.0, the spread: 98.0392156863
+the time of close:14:59:25,the price: 22925.0
+130.0

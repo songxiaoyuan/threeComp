@@ -1,0 +1,20 @@
+完全按照1退出，3退出。20进入 周期3600
+方向是short的交易情况:
+the time of open: 14:31:45,the price: 17570.0
+the diff volume: 26.0, the interest: 26.0, the spread: 100.0
+0
+方向是long的交易情况：:
+the time of open: 10:35:36,the price: 17460.0
+the diff volume: 24.0, the interest: 10.0, the spread: 100.0
+the time of close:11:24:32,the price: 17565.0
+the time of open: 14:52:48,the price: 17580.0
+the diff volume: 20.0, the interest: 20.0, the spread: 100.0
+the time of close:14:54:24,the price: 17545.0
+70.0
+1，3退出，sd／last price <9 不平，20进入 ema 参数的。
+方向是short的交易情况:
+the time of open: 14:31:45,the price: 17570.0
+the diff volume: 10.1904761905, the interest: 44.0, the spread: 100.0
+0
+方向是long的交易情况：:
+0

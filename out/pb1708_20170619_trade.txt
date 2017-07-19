@@ -1,0 +1,12 @@
+完全按照1退出，3退出。20进入 周期3600
+方向是short的交易情况:
+the time of open: 14:59:30,the price: 17355.0
+the diff volume: 22.0, the interest: 18.0, the spread: 100.0
+0
+方向是long的交易情况：:
+0
+1，3退出，sd／last price <9 不平，20进入 ema 参数的。
+方向是short的交易情况:
+0
+方向是long的交易情况：:
+0

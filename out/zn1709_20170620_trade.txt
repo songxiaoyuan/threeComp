@@ -1,0 +1,14 @@
+1，3退出，sd／last price <9 不平，diff_period =1,100进入
+方向是short的交易情况:
+0
+方向是long的交易情况：:
+the time of open: 14:46:41,the price: 21150.0
+the diff volume: 124.0, the interest: 110.0, the spread: 100.0
+0
+完全按照1退出，3退出。 diff_period 6,diff_volume=6,spread=90,volume_edge=40
+方向是short的交易情况:
+0
+方向是long的交易情况：:
+the time of open: 14:46:41,the price: 21150.0
+the diff volume: 40.7619047619, the interest: 132.0, the spread: 100.0
+0

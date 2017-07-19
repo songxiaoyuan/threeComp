@@ -1,0 +1,31 @@
+1，3退出，sd／last price <9 不平，100进入
+方向是short的交易情况:
+the time of open: 09:59:05,the price: 12780.0
+the diff volume: 100.0, the interest: 68.0, the spread: 100.0
+the time of close:10:06:03,the price: 12805.0
+the time of open: 10:07:28,the price: 12790.0
+the diff volume: 138.0, the interest: 110.0, the spread: 100.0
+the time of close:10:33:46,the price: 12750.0
+the time of open: 14:23:37,the price: 12915.0
+the diff volume: 200.0, the interest: 78.0, the spread: 100.0
+the time of close:14:25:52,the price: 12945.0
+the time of open: 14:30:28,the price: 12920.0
+the diff volume: 124.0, the interest: 10.0, the spread: 116.129032258
+the time of close:14:32:32,the price: 12890.0
+the time of open: 14:54:14,the price: 12945.0
+the diff volume: 134.0, the interest: 38.0, the spread: 122.388059701
+15.0
+方向是long的交易情况：:
+the time of open: 09:44:36,the price: 12800.0
+the diff volume: 154.0, the interest: 12.0, the spread: 100.0
+the time of close:09:47:41,the price: 12775.0
+the time of open: 10:10:20,the price: 12795.0
+the diff volume: 182.0, the interest: 22.0, the spread: 100.0
+the time of close:10:33:46,the price: 12750.0
+the time of open: 10:49:26,the price: 12755.0
+the diff volume: 100.0, the interest: 42.0, the spread: 100.0
+the time of close:11:00:41,the price: 12730.0
+the time of open: 11:05:38,the price: 12750.0
+the diff volume: 100.0, the interest: 80.0, the spread: 100.0
+the time of close:11:14:23,the price: 12790.0
+-55.0

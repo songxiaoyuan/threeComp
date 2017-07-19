@@ -1,0 +1,36 @@
+完全按照1退出，3退出。20进入 周期3600
+方向是short的交易情况:
+the time of open: 10:00:41,the price: 17690.0
+the diff volume: 22.0, the interest: 6.0, the spread: 100.0
+the time of close:10:55:46,the price: 17725.0
+the time of open: 11:22:26,the price: 17730.0
+the diff volume: 130.0, the interest: 102.0, the spread: 256.923076923
+the time of close:14:12:27,the price: 17615.0
+the time of open: 14:28:33,the price: 17545.0
+the diff volume: 40.0, the interest: 8.0, the spread: 100.0
+80.0
+方向是long的交易情况：:
+the time of open: 09:58:26,the price: 17700.0
+the diff volume: 34.0, the interest: 24.0, the spread: 188.235294118
+the time of close:10:01:46,the price: 17665.0
+the time of open: 10:09:12,the price: 17700.0
+the diff volume: 20.0, the interest: 8.0, the spread: 100.0
+the time of close:10:32:30,the price: 17665.0
+the time of open: 10:53:54,the price: 17700.0
+the diff volume: 22.0, the interest: 10.0, the spread: 172.727272727
+the time of close:11:24:50,the price: 17695.0
+-75.0
+1，3退出，sd／last price <9 不平，20进入 ema 参数的。
+方向是short的交易情况:
+the time of open: 10:06:58,the price: 17690.0
+the diff volume: 13.9047619048, the interest: 32.0, the spread: 100.0
+the time of close:10:55:46,the price: 17725.0
+the time of open: 11:22:26,the price: 17730.0
+the diff volume: 37.5238095238, the interest: 102.0, the spread: 254.545454545
+the time of close:14:12:27,the price: 17615.0
+80.0
+方向是long的交易情况：:
+the time of open: 09:58:26,the price: 17700.0
+the diff volume: 10.2857142857, the interest: 22.0, the spread: 170.0
+the time of close:10:01:46,the price: 17665.0
+-35.0
